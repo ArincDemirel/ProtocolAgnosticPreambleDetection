@@ -4,6 +4,6 @@
 
   The automatization algorithm has been developing to find the length and the location of the preamble to feed the complex valued Convolutional Neural Network specifically designed by WCSL group for RF fingerprinting.
   
-  The language is python and Object Oriented principles had been followed while implementing the algorithm.
+  The language is python and Object Oriented principles like inheritance had been followed while implementing the algorithm.
   
 
