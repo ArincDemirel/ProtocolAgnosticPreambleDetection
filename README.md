@@ -6,4 +6,4 @@
   
   The language is python and Object Oriented principles like inheritance had been followed while implementing the algorithm.
   
-  In this project cosine similarity, PCA and correlation has been used to create the algorithm and the extracted data has been fed into a CNN architecture for testing purposes.
+  In this project, cosine similarity, PCA and correlation were implemented to create the algorithm and the extracted data which has been fed into a CNN architecture for testing purposes.
